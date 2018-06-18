@@ -21,3 +21,4 @@ Collection of resources for learning different kind of Computer science skills.T
 [`problem-solving`](https://github.com/topics/problem-solving)
 [`jobs`](https://github.com/topics/jobs)
 [`problems`](https://github.com/topics/problems)
+[`interview-questions`](https://github.com/topics/interview-questions)
