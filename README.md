@@ -19,3 +19,5 @@ Collection of resources for learning different kind of Computer science skills.T
 ## Tags
 [`ios`](https://github.com/topics/ios)
 [`problem-solving`](https://github.com/topics/problem-solving)
+[`jobs`](https://github.com/topics/jobs)
+[`problems`](https://github.com/topics/problems)
