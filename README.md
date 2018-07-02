@@ -21,6 +21,9 @@ Collection of resources for learning different kind of Computer science skills.T
     - Data Structure Coding Programs
     - Android Interview Questions
     - Java Interview Questions
+    
+## Cool Blogs
+- [Adrian-Mejia](https://adrianmejia.com/blog/)
 
 ## Tags
 [`ios`](https://github.com/topics/ios)
